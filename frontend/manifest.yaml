@@ -96,7 +96,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: joindevops/frontend:4.0.0
+        image: dasarivinay/frontend:4.0.0
         resources:
           requests:
             cpu: "100m"
